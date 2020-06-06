@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Scott Orn, Bill Growney",
+            "title": "How to get the most from your corporate VC after you get the check",
+            "description": "As with many business partnerships, the key to creating an initial relationship that’s built to last is setting expectations at the outset.",
+            "url": "https://techcrunch.com/2020/06/05/how-to-get-the-most-from-your-corporate-vc-after-you-get-the-check/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1200276359.jpg?w=600",
+            "publishedAt": "2020-06-05T13:38:59Z",
+            "content": "More posts by this contributor\r\nMore posts by this contributor\r\nRaising capital from a corporate VC can bring many benefits beyond just money. Strategic CVCs, who measure ROI based on the strength of… [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Scott Orn, Bill Growney",
+            "title": "15 things founders should know before accepting funding from a corporate VC",
+            "description": "Here’s a list of the top 15 things every founder should know before signing a term sheet with a CVC.",
+            "url": "https://techcrunch.com/2020/06/05/15-things-founders-should-know-before-accepting-funding-from-a-corporate-vc/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1204328192.jpg?w=600",
+            "publishedAt": "2020-06-05T13:38:54Z",
+            "content": "More posts by this contributor\r\nMore posts by this contributor\r\nMore than $50 billion of corporate venture capital (CVC) was deployed in 2018 and new data indicates that nearly half of all venture ro… [+7812 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "As Bandcamp waives fees again, labels donate their portion to justice programs",
+            "description": "There’s a decent chance buying music is the furthest thing from your mind right now, and I can’t say I blame you. Here in the States, 108,000 people are dead of COVID-19, and protests against the killing of George Floyd raged on for an eighth night. And neith…",
+            "url": "https://techcrunch.com/2020/06/05/as-bandcamp-waives-fees-again-labels-donate-their-portion-to-justice-programs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/00000IMG_00000_BURST20200605092139713_COVER.jpg?w=533",
+            "publishedAt": "2020-06-05T13:30:52Z",
+            "content": "Theres a decent chance buying music is the furthest thing from your mind right now, and I cant say I blame you. Here in the States, 108,000 people are dead of COVID-19, and protests against the killi… [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "The IPO window is open (again)",
+            "description": "Whether or not you feel that this SaaS player was worth the revenue multiple its original, $8 billion valuation dictated, the message was clear: the IPO window is open.",
+            "url": "https://techcrunch.com/2020/06/05/the-ipo-window-is-open-2/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1139837455.jpg?w=600",
+            "publishedAt": "2020-06-05T13:03:44Z",
+            "content": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between.\r\nZoomInfo went public yesterday. After pricing its IPO $1 ahead of its proposed … [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm, Natasha Mascarenhas, Chris Gates, Danny Crichton",
+            "title": "A message from the Equity crew",
+            "description": "Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This week, however, the Equity crew (Danny, Natasha, Chris, and Alex) agreed it felt silly to drum up false enthusiasm for fundin…",
+            "url": "https://techcrunch.com/2020/06/05/equity-podcast-2/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/equity-podcast-2019-phone-1-3.jpg?w=430",
+            "publishedAt": "2020-06-05T13:00:05Z",
+            "content": "Hello and welcome back to Equity, TechCrunchs venture capital-focused podcast, where we unpack the numbers behind the headlines.\r\nThis week, however, the Equity crew (Danny, Natasha, Chris, and Alex)… [+640 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Slack's new integration deal with AWS could also be about tweaking Microsoft",
+            "description": "Slack and Amazon announced a big integration late yesterday afternoon. As part of the deal, Slack will use Amazon Chime for its call feature, while reiterating its commitment to use AWS as its preferred cloud provider to run its infrastructure. At the same ti…",
+            "url": "https://techcrunch.com/2020/06/05/slacks-new-integration-deal-with-aws-could-also-be-about-tweaking-microsoft/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=600",
+            "publishedAt": "2020-06-05T12:24:38Z",
+            "content": "Slack and Amazon announced a big integration late yesterday afternoon. As part of the deal, Slack will use Amazon Chime for its call feature, while reiterating its commitment to use AWS as its prefer… [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Budget devices are still the heart of Motorola’s portfolio",
+            "description": "People were already buying fewer handsets well before COVID-19 came into our lives. Now that the pandemic has impacted most of the world, however, those figures have taken an even more sizable dip — with shipments down 12% by the latest count. Budget devices …",
+            "url": "https://techcrunch.com/2020/06/05/budget-devices-are-still-the-heart-of-motorolas-portfolio/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/moto-g-fast_NA_LAYDOWN_COMBO.jpg?w=400",
+            "publishedAt": "2020-06-05T12:00:00Z",
+            "content": "People were already buying fewer handsets well before COVID-19 came into our lives. Now that the pandemic has impacted most of the world, however, those figures have taken an even more sizable dip wi… [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "YC-backed Tajir raises $1.8M to help mom-and-pop stores source inventory in Pakistan",
+            "description": "A number of high-profile firms and startups have set up logistics networks in India in the last decade as they attempt to digitize neighborhood stores. Bangalore-headquartered startup Udaan, for instance, works directly with brands and sellers to source inven…",
+            "url": "https://techcrunch.com/2020/06/05/yc-backed-tajir-raises-1-8m-to-help-mom-and-pop-stores-source-inventory-in-pakistan/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/IMG20200604174455.jpg?w=533",
+            "publishedAt": "2020-06-05T10:41:44Z",
+            "content": "A number of high-profile firms and startups have set up logistics networks in India in the last decade as they attempt to digitize neighborhood stores.\r\nBangalore-headquartered startup Udaan, for ins… [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "PhotoRoom automagically removes background from your photo",
+            "description": "Meet PhotoRoom, a French startup that has been working on a utility photography mobile app. The concept is extremely simple, which is probably the reason why it has attracted a ton of downloads over the past few months. After selecting a photo, PhotoRoom remo…",
+            "url": "https://techcrunch.com/2020/06/05/photoroom-automagically-removes-background-from-your-photo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/sean-dubois-8G5DLKTadEU-unsplash.jpg?w=600",
+            "publishedAt": "2020-06-05T10:10:55Z",
+            "content": "Meet PhotoRoom, a French startup that has been working on a utility photography mobile app. The concept is extremely simple, which is probably the reason why it has attracted a ton of downloads over … [+2736 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jake Bright",
+            "title": "Africa’s top angel Tomi Davies eyes startups and co-investors",
+            "description": "When Nigerian angel investor Tomi Davies backed his first company — Strika Entertainment in 2001 — he admits he wasn’t aware of his future role. “I was just helping out friends. I didn’t know it was angel investing. I didn’t know there was a structure to it,”…",
+            "url": "https://techcrunch.com/2020/06/05/africas-top-angel-tomi-davies-eyes-startups-and-co-investors/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-635051042.jpg?w=711",
+            "publishedAt": "2020-06-05T07:05:37Z",
+            "content": "When Nigerian angel investor Tomi Davies backed his first company Strika Entertainment in 2001 he admits he wasnt aware of his future role.\r\nI was just helping out friends. I didnt know it was angel … [+6124 chars]"
+        }
+    ]
+}
